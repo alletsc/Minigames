@@ -160,3 +160,4 @@ elif computador == 4: #SPOCK
         
     elif jogador == 4:
         print('EMPATE')
+        
